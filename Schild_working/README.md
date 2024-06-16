@@ -5,10 +5,12 @@ Xcode automatically generates these files but with basic/shell code. Update them
   - SceneDelegate.swift
   - ViewController.swift
   - Main.storyboard
+
   
 These two need to be created by the user:
   - TaskViewController
   - EntryViewController
+
 
 Tips if new to Xcode:
   - The simulator might need to be cleared out and reset sometimes. Do so by running the below in the terminal

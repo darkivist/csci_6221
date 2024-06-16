@@ -1,6 +1,6 @@
 **Contains working to-do app files for sharing**
 
-**Xcode automatically generates these files but with basic/shell code. Update them with the code in the like-files found in this folder.**
+**Xcode automatically generates these files but with basic/shell code. Either update them with the code in the like-files found in this folder, or just download these from here and replace the ones that Xcode generated for your project. Recommend completely replacing the Main.storyboard with the one here to get all of the settings/connections.**
   - AppDelegate.swift
   - SceneDelegate.swift
   - ViewController.swift

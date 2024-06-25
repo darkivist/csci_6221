@@ -2,7 +2,7 @@
 //  LoginView.swift
 //  ToDoApp
 //
-//  Created by Paul Kelly on 6/23/24.
+//  Created by Jonathan Schild and Paul Kelly on 6/23/24.
 //
 
 import SwiftUI

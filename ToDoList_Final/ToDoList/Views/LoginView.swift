@@ -14,9 +14,9 @@ struct LoginView: View {
     var body: some View {
         NavigationView {
             VStack {
-                // Header
-                HeaderView(title: "To Do List",
-                           subtitle: "GWU CSCI 6221, Summer 2024",
+                //Header
+                HeaderView(title: "Final Project",
+                           subtitle: "Jon Schild/Paul Kelly, CSCI 6221, Summer 2024",
                            angle: 15,
                            background: Color(red: 0/255, green: 59/255, blue: 92/255))
 

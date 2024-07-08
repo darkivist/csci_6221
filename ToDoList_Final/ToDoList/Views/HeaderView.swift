@@ -24,12 +24,12 @@ struct HeaderView: View {
             // Title Text
             VStack {
                 Text(title)
-                    .font(.system(size: 50))
+                    .font(.system(size: 40))
                     .foregroundColor(.white)
                     .bold()
                 
                 Text(subtitle)
-                    .font(.system(size: 20))
+                    .font(.system(size: 15))
                     .foregroundColor(.white)
             }
             .padding(.top, 80)

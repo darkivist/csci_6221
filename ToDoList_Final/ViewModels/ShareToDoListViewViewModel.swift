@@ -2,7 +2,7 @@
 //  ShareToDoListViewViewModel.swift
 //  ToDoList
 //
-//  Created by Jonathan Schild on 7/1/24.
+//  Created by Jonathan Schild and Paul Kelly on 7/1/24.
 //
 
 import Foundation

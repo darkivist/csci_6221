@@ -2,7 +2,7 @@
 //  MainViewViewModel.swift
 //  ToDoList
 //
-//  Created by Jonathan Schild on 6/21/24.
+//  Created by Jonathan Schild and Paul Kelly on 6/21/24.
 //
 
 import Foundation
